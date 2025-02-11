@@ -4,5 +4,4 @@ a, b = b , a
 
 print(a, b)
 
-print("lokesh")
 print("pentagon")
