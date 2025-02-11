@@ -4,4 +4,4 @@ a, b = b , a #this the logic to swap two numbers
 
 print(a, b)
 print("pentagon")
-print("lokesh")
+print("loki")
